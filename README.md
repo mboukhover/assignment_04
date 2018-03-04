@@ -1,1 +1,7 @@
-# assignment_04
+# Version Control Assignment
+## My First Tattoo Icon System
+==============================
+
+A reflection on meaning of my first tattoo as told through a SVG icon system.
+
+See the original work [here] (http://i6.cims.nyu.edu/~mb5511/380/SVG/index.html)
